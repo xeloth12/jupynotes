@@ -1,1 +1,1 @@
-# jowiszowe-notki
+# jupynotes
